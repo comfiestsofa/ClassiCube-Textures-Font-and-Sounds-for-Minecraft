@@ -5,11 +5,8 @@ Includes [zoey (goodly)](https://github.com/Goodlyay)'s original textures and fo
 
 **Supports both Minecraft Java and Bedrock.**
 
-# Download
-* [GitHub Releases](https://github.com/comfiestsofa/ClassiCube-Textures-Font-and-Sounds-for-Minecraft/releases)
-* [Modrinth](https://modrinth.com/project/k9HX9DGX)
-* [Modrinth (Font only)](https://modrinth.com/project/klPhZGeU)
-* [Modrinth (Soundpack only)](https://modrinth.com/project/A6RUTMay)
+# [Download](https://github.com/comfiestsofa/ClassiCube-Textures-Font-and-Sounds-for-Minecraft/releases)
+Get the latest version from [GitHub Releases](https://github.com/comfiestsofa/ClassiCube-Textures-Font-and-Sounds-for-Minecraft/releases)!
 
 # What do I choose? (Main packs)
 | Icon | Name | Description |
