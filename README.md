@@ -31,6 +31,8 @@ Includes [zoey (goodly)](https://github.com/Goodlyay)'s original textures and fo
 | <img src="ClassiCube%20Lava/pack.png" width="128" height="128"> | Lava | **(❌️ Not recommended)**<br>If you like the Classic-style lava texture, enable this.<br>Personally, I don't think it looks very good in modern Minecraft due to the lack of proper flowing liquid textures. |
 
 # FAQ
+* **Minecraft Java says the resource pack is made for an older version of Minecraft!**
+	* Ignore it, it'll work fine. This is because I set the lowest possible `pack_version` for each pack. The font uses a `pack_version` of 1, while everything else uses 4.
 * The crosshair is slightly larger than it is in ClassiCube.
 	* This is due to rendering differences between ClassiCube and Minecraft. The crosshair in this pack is actually scaled 2x, because otherwise it'd actually end up being too small, and I figured having it be slightly bigger is the better choice of the two.
 * Gold and iron blocks in Bedrock use the same textures for all sides.
