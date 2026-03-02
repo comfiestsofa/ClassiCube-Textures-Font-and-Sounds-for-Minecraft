@@ -8,6 +8,12 @@ Includes [zoey (goodly)](https://github.com/Goodlyay)'s original textures and fo
 # [Download](https://github.com/comfiestsofa/ClassiCube-Textures-Font-and-Sounds-for-Minecraft/releases)
 Get the latest version from [GitHub Releases](https://github.com/comfiestsofa/ClassiCube-Textures-Font-and-Sounds-for-Minecraft/releases)!
 
+# Compatibility
+* Java 1.6.1 and newer (Font)
+* Java 1.7.10 and newer (Sounds)
+* Java 1.13 and newer (Everything else)
+* Bedrock
+
 # What do I choose? (Main packs)
 | Icon | Name | Description |
 |---|---|---|
