@@ -14,7 +14,7 @@ Includes [zoey (goodly)](https://github.com/Goodlyay)'s original textures and fo
 # What do I choose? (Main packs)
 | Icon | Name | Description |
 |---|---|---|
-| <img src="ClassiCube%20All-In-One/pack.png" width="128" height="128"> | All-In-One | **✅️ My personal recommendation.<br>If you're not sure what to choose, pick this one.**<br><br>Includes the following components:<br><ul><li>Font</li><li>Blocks, FX</li><li>Mobs (MC)</li><li>UI</li></ul> |
+| <img src="ClassiCube%20All-In-One/pack.png" width="128" height="128"> | All-In-One | **✅️ My personal recommendation. If you're not sure what to choose, pick this one.**<br><br>Includes the following components:<br><ul><li>Font</li><li>Blocks, FX</li><li>Mobs (MC)</li><li>UI</li></ul> |
 | <img src="ClassiCube%20Font/pack.png" width="128" height="128"> | Font | **(✅️ Included in AIO pack.)**<br>ClassiCube's font that supports all 255 "CP437 Extended ASCII" characters (alphanumeric, accented characters, and special symbols).<br><br>All other characters use the default Minecraft font. |
 | <img src="ClassiCube%20Sounds/pack.png" width="128" height="128"> | Sounds | The soundpack shipped with the [itch.io version of ClassiCube](https://andrewph.itch.io/classicube).<br><br>I decided against including this in the AIO pack since I think the sounds might be a little divisive to those used to the Minecraft ones.<br><br>If you want to use this soundpack in ClassiCube without switching to the itch.io version, download [this](https://drinkybird.net/files/ClassiCubeSounds.zip) and replace `audio/default.zip` in your ClassiCube folder. |
 
