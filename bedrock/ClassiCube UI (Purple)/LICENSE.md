@@ -3,6 +3,8 @@ Original content and code in this repo is licensed under the [permissive MIT lic
 
 This does not apply to third-party content included in this repo.
 
+A copy of this license can also be found on the web: https://github.com/comfiestsofa/ClassiCube-Textures-Font-and-Sounds-for-Minecraft/blob/master/LICENSE.md
+
 ---
 
 Copyright 2026 sofa (comfiestsofa)
