@@ -71,7 +71,7 @@ def main():
 			if ch in mc_table:
 				mc_index, mc_x, mc_y = mc_table[ch]
 				print(
-					f"U+{codepoint:04X} '{ch}' | "
+					f"\\u{codepoint:04x} '{ch}' | "
 					f"classicube:font/default.png "
 					f"{cc_index}-{cc_x},{cc_y}.png"
 					f" -> {name} "
