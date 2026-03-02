@@ -5,15 +5,19 @@ import re
 
 # (classicube folder, filename, tile size, vanilla folder)
 folders = [
-	("classicube/accented-9x12", 
-	 "accented.png", 
-	 (9, 12),
-	 "minecraft/accented-9x12"),
+	(
+		"classicube/accented-9x12",
+		"accented.png",
+		(9, 12),
+		"minecraft/accented-9x12"
+	),
 	
-	("classicube/nonlatin_european-8x8", 
-	 "nonlatin_european.png", 
-	 (8, 8),
-	 "minecraft/nonlatin_european-8x8")
+	(
+		"classicube/nonlatin_european-8x8",
+		"nonlatin_european.png",
+		(8, 8),
+		"minecraft/nonlatin_european-8x8"
+	)
 ]
 
 tile_pattern = re.compile(r"(\d+)-(\d+),(\d+)\.png") # index-x,y.png
