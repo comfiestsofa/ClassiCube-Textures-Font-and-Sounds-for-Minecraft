@@ -61,6 +61,7 @@ Minecraft Classic, and especially ClassiCube, contain far more wool colours than
 * InventivetalentDev's `minecraft-assets` repo: https://github.com/InventivetalentDev/minecraft-assets
 * Mojang's `bedrock-samples` repo: https://github.com/Mojang/bedrock-samples
 * ClassiCube (https://www.classicube.net/): https://github.com/ClassiCube/ClassiCube
+* CustomOpenBlocks: https://github.com/NotAwesome2/CustomOpenBlocks
 
 # Developer info
 If you want to help contribute, the scripts in this repo expect you to have:

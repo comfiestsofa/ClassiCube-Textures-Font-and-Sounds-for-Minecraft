@@ -22,4 +22,6 @@ The "ClassiCube Sounds" soundpack contains content licensed under a mixture of C
 
 Most other graphical assets (textures, font, etc.) in this repo were either directly created by [zoey (goodly)](https://github.com/Goodlyay), or modified using her work as a base. Please seek permission from her before using her work in your projects.
 
-The original assets are used as part of ClassiCube: https://www.classicube.net (https://github.com/ClassiCube/ClassiCube)
+These assets are used as part of ClassiCube: https://www.classicube.net (https://github.com/ClassiCube/ClassiCube, https://andrewph.itch.io/classicube)
+
+Some textures are derived from [zoey (goodly)](https://github.com/Goodlyay)'s CustomOpenBlocks (https://github.com/NotAwesome2/CustomOpenBlocks) under her suggestion, which is [licensed under the Unlicense](https://github.com/NotAwesome2/CustomOpenBlocks/blob/main/LICENSE).
