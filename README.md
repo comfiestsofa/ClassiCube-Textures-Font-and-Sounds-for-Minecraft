@@ -16,7 +16,7 @@ Includes [zoey (goodly)](https://github.com/Goodlyay)'s original textures and fo
 |---|---|---|
 | <img src="ClassiCube%20All-In-One/pack.png" width="128" height="128"> | All-In-One | **✅️ My personal recommendation. If you're not sure what to choose, pick this one.**<br><br>Includes the following components:<br><ul><li>Font</li><li>Blocks, FX</li><li>Mobs (MC)</li><li>UI</li></ul> |
 | <img src="ClassiCube%20Font/pack.png" width="128" height="128"> | Font | **(✅️ Included in AIO pack.)**<br>ClassiCube's font that supports all 255 "CP437 Extended ASCII" characters (alphanumeric, accented characters, and special symbols).<br><br>All other characters use the default Minecraft font. |
-| <img src="ClassiCube%20Sounds/pack.png" width="128" height="128"> | Sounds | The soundpack shipped with the itch.io version of ClassiCube.<br><br>I decided against including this in the AIO pack since I think the sounds might be a little divisive to those used to the Minecraft ones.<br><br>If you want to use this soundpack in ClassiCube without switching to the itch.io version, download [this](https://drinkybird.net/files/ClassiCubeSounds.zip) and replace `audio/default.zip` in your ClassiCube folder. |
+| <img src="ClassiCube%20Sounds/pack.png" width="128" height="128"> | Sounds | The soundpack shipped with the [itch.io version of ClassiCube](https://andrewph.itch.io/classicube).<br><br>I decided against including this in the AIO pack since I think the sounds might be a little divisive to those used to the Minecraft ones.<br><br>If you want to use this soundpack in ClassiCube without switching to the itch.io version, download [this](https://drinkybird.net/files/ClassiCubeSounds.zip) and replace `audio/default.zip` in your ClassiCube folder. |
 
 # Customization options
 | Icon | Name | Description |
@@ -38,7 +38,7 @@ Includes [zoey (goodly)](https://github.com/Goodlyay)'s original textures and fo
 
 # Attribution
 * zoey (goodly, https://github.com/Goodlyay) for her texture and bitmap font work, and for allowing me to publicly release this pack at all
-* csnxs (DrinkyBird, https://github.com/DrinkyBird) for their [ClassiCubeSounds.zip](https://drinkybird.net/files/ClassiCubeSounds.zip) soundpack used in the itch.io version of ClassiCube (other versions of ClassiCube use vanilla sounds that are downloaded on first launch)
+* csnxs (DrinkyBird, https://github.com/DrinkyBird) for their [ClassiCubeSounds.zip](https://drinkybird.net/files/ClassiCubeSounds.zip) soundpack used in the [itch.io version of ClassiCube](https://andrewph.itch.io/classicube) (other versions of ClassiCube use vanilla sounds that are downloaded on first launch)
 	* `step_wood*`: by Freesound user [kyles (Creative Commons 0 License)](https://freesound.org/people/kyles/sounds/451142/)
 	* `step_snow*`: by Freesound user [musicbrain (Creative Commons 0 License)](https://freesound.org/people/musicbrain/sounds/215690/)
 	* `step_gravel*`: by Freesound user [smokingsound (Creative Commons Attribution)](https://freesound.org/people/smokingsound/sounds/331703/)
@@ -49,8 +49,9 @@ Includes [zoey (goodly)](https://github.com/Goodlyay)'s original textures and fo
 	* `dig_glass1`: by Freesound user [RoganDerrick (Creative Commons Attribution)](https://freesound.org/people/RoganDerrick/sounds/260434/)
 	* `dig_glass2`: by Freesound user [cmusounddesign (Creative Commons Attribution)](https://freesound.org/people/cmusounddesign/sounds/85107/)
 	* `dig_glass3`: by Freesound user [ToxicFilmzSRsounds (Creative Commons 0 License)](https://freesound.org/people/ToxicFilmzSRsounds/sounds/378568/)
-* InventivetalentDev's `minecraft-assets` repo: https://github.com/InventivetalentDev/minecraft-assets.git
-* Mojang's `bedrock-samples` repo: https://github.com/Mojang/bedrock-samples.git
+* InventivetalentDev's `minecraft-assets` repo: https://github.com/InventivetalentDev/minecraft-assets
+* Mojang's `bedrock-samples` repo: https://github.com/Mojang/bedrock-samples
+* ClassiCube (https://www.classicube.net/): https://github.com/ClassiCube/ClassiCube
 
 # Developer info
 If you want to help contribute, the scripts in this repo expect you to have:
