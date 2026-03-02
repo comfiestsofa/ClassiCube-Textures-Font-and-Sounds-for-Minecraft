@@ -1,3 +1,6 @@
 [submodule "PackConverter"]
 	path = PackConverter
 	url = https://github.com/Dreamspun-Labs/PackConverter.git
+[submodule "original-assets/bedrock-samples"]
+	path = original-assets/bedrock-samples
+	url = https://github.com/Mojang/bedrock-samples.git
