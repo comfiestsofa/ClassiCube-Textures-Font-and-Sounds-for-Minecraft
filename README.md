@@ -30,6 +30,13 @@ Includes [zoey (goodly)](https://github.com/Goodlyay)'s original textures and fo
 | <img src="ClassiCube%20Steve/pack.png" width="128" height="128"> | Steve | The ClassiCube version of Steve. Not much more to say about this. |
 | <img src="ClassiCube%20Lava/pack.png" width="128" height="128"> | Lava | **(❌️ Not recommended)**<br>If you like the Classic-style lava texture, enable this.<br>Personally, I don't think it looks very good in modern Minecraft due to the lack of proper flowing liquid textures. |
 
+# Wool colour mapping
+Minecraft Classic, and especially ClassiCube, contain far more wool colours than modern Minecraft does. This is how I mapped them to be as close as possible.
+
+\* The black and green wool colours are custom assets made by myself.
+
+![wool-map-big.png](wool-map-big.png)
+
 # FAQ
 * **Minecraft Java says the resource pack is made for an older version of Minecraft!**
 	* Ignore it, it'll work fine. This is because I set the lowest possible `pack_version` for each pack. The font uses a `pack_version` of 1, while everything else uses 4.
