@@ -1,7 +1,7 @@
 # ClassiCube Textures, Font, and Sounds for Minecraft
 The ClassiCube look and feel, in Minecraft.
 
-Includes [zoey (goodly)](https://github.com/Goodlyay)'s original textures and font, and [csnxs](https://github.com/DrinkyBird)'s soundpack (optional).
+Includes [zoey (goodly)](https://github.com/Goodlyay)'s original textures and font, and [csnxs (DrinkyBird)](https://github.com/DrinkyBird)'s soundpack (optional).
 
 **Supports both Minecraft Java and Bedrock.**
 
@@ -82,3 +82,6 @@ And make sure you have the submodules set up (you can use `init.sh`).
 * `update.sh`: Updates the AIO and Bedrock packs.
 * `png-smol.sh`: Removes EXIF data and recompresses PNGs.
 * `build.sh`: Builds zip and mcpack files for release.
+
+# License
+See [LICENSE.md](LICENSE.md).
