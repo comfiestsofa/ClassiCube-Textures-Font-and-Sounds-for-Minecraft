@@ -68,3 +68,9 @@ On Windows specifically:
 * [Zip for Windows](https://gnuwin32.sourceforge.net/packages/zip.htm)
 
 And make sure you have the submodules set up (you can use `init.sh`).
+
+## Quick reference
+* `init.sh`: Sets up submodules.
+* `update.sh`: Updates the AIO and Bedrock packs.
+* `png-smol.sh`: Removes EXIF data and recompresses PNGs.
+* `build.sh`: Builds zip and mcpack files for release.
