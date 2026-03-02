@@ -1,7 +1,7 @@
 # ClassiCube Textures, Font, and Sounds for Minecraft
 The ClassiCube look and feel, in Minecraft.
 
-Includes zoey (goodly)'s original textures and font, and csnxs's soundpack (optional).
+Includes [zoey (goodly)](https://github.com/Goodlyay)'s original textures and font, and [csnxs](https://github.com/DrinkyBird)'s soundpack (optional).
 
 **Supports both Minecraft Java and Bedrock.**
 
