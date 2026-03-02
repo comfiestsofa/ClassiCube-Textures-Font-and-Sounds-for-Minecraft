@@ -1,4 +1,4 @@
-#!/usr/bin/env bas
+#!/usr/bin/env bash
 version="$(cat version.txt)"
 
 ./build-java.sh
