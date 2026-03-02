@@ -2,33 +2,32 @@
 from PIL import Image
 
 def remove_matching_pixels(image1_path, image2_path, output_path, tolerance=0):
-    img1 = Image.open(image1_path).convert("RGBA")
-    img2 = Image.open(image2_path).convert("RGBA")
+	img1 = Image.open(image1_path).convert("RGBA")
+	img2 = Image.open(image2_path).convert("RGBA")
 
-    if img1.size != img2.size:
-        raise ValueError("Images must be the same size")
+	if img1.size != img2.size:
+		raise ValueError("Images must be the same size")
 
-    pixels1 = img1.load()
-    pixels2 = img2.load()
+	pixels1 = img1.load()
+	pixels2 = img2.load()
 
-    width, height = img1.size
+	width, height = img1.size
 
-    for y in range(height):
-        for x in range(width):
-            r1, g1, b1, a1 = pixels1[x, y]
-            r2, g2, b2, a2 = pixels2[x, y]
+	for y in range(height):
+		for x in range(width):
+			r1, g1, b1, a1 = pixels1[x, y]
+			r2, g2, b2, a2 = pixels2[x, y]
 
-            # Compare colors with tolerance
-            if (
-                abs(r1 - r2) <= tolerance and
-                abs(g1 - g2) <= tolerance and
-                abs(b1 - b2) <= tolerance
-            ):
-                # Make transparent
-                pixels1[x, y] = (r1, g1, b1, 0)
+			if (
+				abs(r1 - r2) <= tolerance and
+				abs(g1 - g2) <= tolerance and
+				abs(b1 - b2) <= tolerance
+			):
+				# Make transparent
+				pixels1[x, y] = (r1, g1, b1, 0)
 
-    img1.save(output_path, "PNG")
-    print(f"Saved result to {output_path}")
+	img1.save(output_path, "PNG")
+	print(f"Saved result to {output_path}")
 
 remove_matching_pixels("ore-overlays/original/coal_ore.png", "ore-overlays/original/stone.png", "ore-overlays/coal_ore.png", tolerance=24)
 remove_matching_pixels("ore-overlays/original/copper_ore.png", "ore-overlays/original/stone.png", "ore-overlays/copper_ore.png", tolerance=24)
