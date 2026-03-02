@@ -69,6 +69,7 @@ If you want to help contribute, the scripts in this repo expect you to have:
 * [oxipng](https://github.com/oxipng/oxipng/releases)
 * [exiftool](https://exiftool.org/install.html)
 * [ImageMagick](https://imagemagick.org/script/download.php)
+* [Java JDK 21](https://adoptium.net/temurin/releases?version=21&os=any&arch=any)
 
 On Windows specifically:
 * [Git Bash](https://git-scm.com/install/windows)
