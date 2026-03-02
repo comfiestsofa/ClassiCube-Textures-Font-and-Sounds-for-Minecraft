@@ -82,6 +82,15 @@ for pack in ClassiCube*/; do
 	if [ -f "$packname/textures/blocks/grass_side.tga" ]; then
 		magick "$packname/textures/blocks/grass_side_carried.png" -alpha set -channel A -evaluate set 1 +channel "$packname/textures/blocks/grass_side.tga" -compose over -composite "$packname/textures/blocks/grass_side.tga"
 	fi
+
+	# fix packconverter not generating crosshair image
+	if [ -f "$packname/textures/ui/sprites/hud/crosshair.png" ]; then
+		cd "$packname"
+		mkdir -p textures/gui
+		python3 "$path/original-assets/generate-bedrock-crosshair.py"
+		"$path/png-smol.sh" textures/gui/icons.png
+		cd "$path/bedrock"
+	fi
 done
 
 rm -rf "$temp"
